@@ -1,0 +1,1 @@
+export default function App(){return <h1>Casino Vision AI</h1>}
